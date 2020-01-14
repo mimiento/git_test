@@ -1,0 +1,1 @@
+This is Mimiento's first git project!
